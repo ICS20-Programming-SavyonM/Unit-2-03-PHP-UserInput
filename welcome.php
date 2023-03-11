@@ -1,0 +1,1 @@
+Your favourite movie is <?php echo $_POST["favourite-movie"]; ?> and your favourite snack is <?php echo $_POST["favourite-snack"]; ?>.
